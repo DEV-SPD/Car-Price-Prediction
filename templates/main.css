@@ -1,0 +1,19 @@
+form{
+    border-style: solid;
+    border-radius: 20px;
+    margin: 100px;
+    padding-left: 400px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+body{
+    background-image: url('https://img-ik.cars.co.za/news-site-za/images/2022/03/Hyundai-Grand-Creta-main.jpg?tr=w-1200,h-800');
+} 
+
+#heading{
+    font-size: 50px;
+    margin: 300px;
+    font-style: oblique;
+    color:black;
+}
