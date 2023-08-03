@@ -1,0 +1,5 @@
+flask
+pickle
+numpy
+pandas
+sklearn
